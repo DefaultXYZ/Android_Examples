@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DefaultXYZ</string>
+
+    <string name="first">First</string>
+    <string name="second">Second</string>
+
+    <string-array name="menu">
+        <item>Calendar</item>
+        <item>Week</item>
+        <item>Rest</item>
+        <item>List View</item>
+    </string-array>
+
+    <string-array name="weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
