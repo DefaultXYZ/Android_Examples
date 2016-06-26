@@ -20,7 +20,8 @@
         </activity>
         <activity android:name=".weekview.WeekViewActivity" />
         <activity android:name=".rest.RestActivity" />
-        <activity android:name=".listview.ListViewActivity"></activity>
+        <activity android:name=".listview.ListViewActivity" />
+        <activity android:name=".drag_and_drop.DragAndDropActivity"></activity>
     </application>
 
 </manifest>

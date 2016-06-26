@@ -9,6 +9,7 @@
         <item>Week</item>
         <item>Rest</item>
         <item>List View</item>
+        <item>Drag Drop</item>
     </string-array>
 
     <string-array name="weekdays">
@@ -20,4 +21,6 @@
         <item>Saturday</item>
         <item>Sunday</item>
     </string-array>
+    
+    <string name="sample_name">Sample</string>
 </resources>
